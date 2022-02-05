@@ -9,6 +9,12 @@
 <a href="https://github.com/hyPnOtICDo0g/rss-chan/network/members" alt="GitHub forks"><img src="https://img.shields.io/github/forks/hyPnOtICDo0g/rss-chan?style=social" ></a>
 <hr>
 
+### With Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godofh3ell/rss-chan)
+
+
+
 # About
 
 A self-hosted telegram bot that dumps posts from a RSS feed to a telegram chat.
